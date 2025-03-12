@@ -4,19 +4,19 @@
 - project: SRE From Scratch (Book)
   role: Author
   duration: 2022 &mdash; Present
-  url: "https://github.com/bradtaco/sre-from-scratch"  # Update with actual URL when available
+  url: "https://github.com/bradtaco/SRE-From-Scratch"
   description: A practical guide for teams and individuals to adopt SRE principles and build SRE structures without executive buy-in or dedicated funding.
 
 - project: Gap-Tap
   role: Founder & CEO
   duration: 2024 &mdash; Present
-  url: "https://gap-tap.com"  # Update with actual URL when available
+  url: "https://gap-tap.com"
   description: Founded a company around a proprietary product, currently generating $1M in annual revenue. Responsible for product development, business strategy, and market expansion.
 
 - project: GroCrate
   role: Founder & Product Developer
   duration: 2024 &mdash; Present
-  url: "https://github.com/bradtaco/grocrate"  # Update with actual URL when available
+  url: "https://github.com/bradtaco/GroCrate"
   description: Developed an eco-friendly packaging solution infused with microbes and seeds to promote decomposition. Currently working on patenting and bringing the product to market.
 
 - project: SRE Consulting
@@ -25,7 +25,13 @@
   description: Partnering with companies of all sizes to bootstrap SRE functions, develop operational reliability strategies, and implement incident management processes.
 
 - project: kmdr.ai
-  role: Founder & Lead Developer
+  role: Founder & Sole Developer
   duration: 2023 &mdash; Present
   url: "https://github.com/bradtaco/kmdr-ai"
-  description: A large language model (LLM) chat agent designed to assist in initiating and managing live incidents and postmortems. Currently in early alpha, with a focus on real-time operational intelligence.
+  description: Designed and developed *kmdr.ai* as a **solo project**, creating an LLM-powered chat agent to assist in initiating and managing live incidents and postmortems. Currently in early alpha, with a focus on real-time operational intelligence.
+
+- project: No Survivors (Game Jam Entry)
+  role: Project Lead, Game Developer
+  duration: 2024 &mdash; Present
+  url: "https://github.com/bradtaco/No-Survivors"
+  description: Recruited and led a team of 7 developers, artists, and writers to create *No Survivors*, an open-source game for the 2024 GitHub Game Jam. Directed **game development, art direction, and story design**, ensuring a cohesive gameplay experience and narrative.
