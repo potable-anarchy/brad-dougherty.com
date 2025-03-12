@@ -1,11 +1,11 @@
 # Projects
 # Uncomment the URLs if you wish to display them, and add your own URL
 
-- project: SRE From Scratch (Book)
+- project: SRE From Scratch
   role: Author
   duration: 2022 &mdash; Present
   url: "https://github.com/bradtaco/SRE-From-Scratch"
-  description: A practical guide for teams and individuals to adopt SRE principles and build SRE structures without executive buy-in or dedicated funding.
+  description: Wrote a practical guide for teams and individuals to adopt SRE principles and build SRE structures without executive buy-in or dedicated funding.
 
 - project: Gap-Tap
   role: Founder & CEO
@@ -28,10 +28,10 @@
   role: Founder & Sole Developer
   duration: 2023 &mdash; 2024
   url: "https://github.com/bradtaco/kmdr-ai"
-  description: Developed kmdr.ai as a proof of concept for an LLM-powered chat agent designed to assist in initiating and managing live incidents and postmortems. The project explored real-time operational intelligence but was not continued beyond its initial prototype phase.
+  description: Developed a proof of concept for an LLM-powered chat agent designed to assist in initiating and managing live incidents and postmortems. Explored real-time operational intelligence but was not continued beyond its initial prototype phase.
 
-- project: No Survivors (Game Jam Entry)
+- project: No Survivors
   role: Project Lead, Game Developer
   duration: 2024 &mdash; Present
   url: "https://github.com/bradtaco/No-Survivors"
-  description: Recruited and led a team of 4 developers, artists, and writers to create No Survivors, an open-source game for the 2024 GitHub Game Jam. Directed game development, art direction, and story design, ensuring a cohesive gameplay experience and narrative.
+  description: Recruited and led a team of 4 developers, artists, and writers to create an open-source game for the 2024 GitHub Game Jam. Directed game development, art direction, and story design, ensuring a cohesive gameplay experience and narrative.
