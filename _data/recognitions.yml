@@ -1,26 +1,15 @@
 # Recognitions
-
 - award: Excellence in Site Reliability Engineering
   organization: Upstart Inc.
   year: 2022
   summary: Recognized for outstanding contributions in improving system reliability, reducing incident response time, and leading the implementation of SLOs, SLIs, and SLAs.
 
-- award: Innovation in DevOps Automation
+- award: Customer Experience Excellence Award
   organization: Box Inc.
   year: 2020
-  summary: Awarded for designing and implementing a fully automated incident response system that integrated Rootly, Jira, PagerDuty, Slack, and Zoom, improving incident resolution times.
+  summary: Led the team that won the Customer Experience Excellence Award for improving incident reporting and response processes, with a strong focus on reducing customer impact.
 
-- award: Cloud Infrastructure Optimization Award
-  organization: Upstart Inc.
-  year: 2023
-  summary: Led a cloud infrastructure optimization project that resulted in a 15% cost reduction while maintaining performance, earning company-wide recognition.
-
-- award: Mentor of the Year
-  organization: Box Inc.
-  year: 2021
-  summary: Recognized for establishing and leading an internal mentorship program, ensuring 100% adoption and career growth for junior engineers.
-
-- award: Open-Source Contributor Recognition
-  organization: Kubernetes Community
-  year: 2019
-  summary: Acknowledged for contributions to open-source Kubernetes projects, particularly in deployment automation and monitoring solutions.
+- award: Be the Customer Contest Winner
+  organization: eBay Inc.
+  year: 2015
+  summary: Won the internal "Be the Customer" contest by successfully using and analyzing eBay's products, providing insights that improved customer experience.
