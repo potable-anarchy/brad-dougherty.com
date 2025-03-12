@@ -1,12 +1,37 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Site Reliability Engineering & DevOps
+- skill: Site Reliability Engineering
+  description: Expertise in building and maintaining reliable, scalable infrastructure with a focus on automation, monitoring, and performance optimization.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: DevOps & Automation
+  description: Experienced in CI/CD pipelines, Infrastructure as Code (IaC), and cloud automation with Terraform, Ansible, and GitHub Actions.
+
+- skill: Cloud Platforms
+  description: Proficient in AWS, GCP, and serverless architectures, optimizing cloud infrastructure for performance and cost-efficiency.
+
+- skill: Kubernetes & Containerization
+  description: Extensive experience managing large-scale Kubernetes clusters and containerized applications using Docker.
+
+- skill: Monitoring & Observability
+  description: Built monitoring solutions with Prometheus, Grafana, DataDog, and the ELK stack to improve system health and incident response.
+
+# Software Development
+- skill: Programming Languages
+  description: Strong proficiency in Python, Bash, and Ruby with experience in Go and PHP.
+
+- skill: AI & Automation Tools
+  description: Developed AI-powered automation and chatbot systems leveraging OpenAI APIs.
+
+- skill: Database Management
+  description: Experienced in managing SQL (PostgreSQL, MySQL) and NoSQL (Redis, DynamoDB) databases.
+
+# Leadership & Business Operations
+- skill: Team Leadership & Mentorship
+  description: Led and mentored SRE and DevOps teams, creating effective training programs and fostering growth.
+
+- skill: Incident Management & Postmortems
+  description: Designed and implemented SLOs, SLIs, and SLAs, improving service reliability and reducing incident downtime.
+
+- skill: Entrepreneurship & Business Operations
+  description: Founded and operated an LLC, handling product development, customer acquisition, and marketing strategies.

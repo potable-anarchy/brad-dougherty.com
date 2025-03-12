@@ -1,15 +1,25 @@
 # Associations
-# comment out the urls if you do not wish to display them
+# Comment out the URLs if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: DevOps Portland
+  role: Member
+  year: 2020 &mdash; Present
+  url: https://www.meetup.com/devops-portland/
+  summary: Active member of the Portland DevOps community, participating in discussions and events focused on automation, cloud infrastructure, and site reliability best practices.
 
+- organization: Linux Foundation
+  role: Member
+  year: 2018 &mdash; Present
+  url: https://www.linuxfoundation.org/
+  summary: Supporting open-source initiatives and contributing to discussions on Linux-based infrastructure and cloud-native technologies.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Kubernetes Community
+  role: Contributor
+  year: 2019 &mdash; Present
+  url: https://kubernetes.io/community/
+  summary: Contributed to open-source Kubernetes projects, focusing on deployment automation and monitoring solutions.
+
+- organization: Site Reliability Engineering Community
+  role: Speaker & Mentor
+  year: 2021 &mdash; Present
+  summary: Delivered talks on scaling production infrastructure, implementing SLIs/SLOs, and improving incident response processes. Mentored junior engineers in DevOps and SRE practices.
