@@ -26,9 +26,9 @@
 
 - project: kmdr.ai
   role: Founder & Sole Developer
-  duration: 2023 &mdash; Present
+  duration: 2023 &mdash; 2024
   url: "https://github.com/bradtaco/kmdr-ai"
-  description: Designed and developed kmdr.ai as a solo project, creating an LLM-powered chat agent to assist in initiating and managing live incidents and postmortems. Currently in early alpha, with a focus on real-time operational intelligence.
+  description: Developed kmdr.ai as a proof of concept for an LLM-powered chat agent designed to assist in initiating and managing live incidents and postmortems. The project explored real-time operational intelligence but was not continued beyond its initial prototype phase.
 
 - project: No Survivors (Game Jam Entry)
   role: Project Lead, Game Developer
