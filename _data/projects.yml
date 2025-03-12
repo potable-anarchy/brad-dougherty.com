@@ -1,30 +1,31 @@
 # Projects
 # Uncomment the URLs if you wish to display them, and add your own URL
 
-# kmdr.ai
+- project: SRE From Scratch (Book)
+  role: Author
+  duration: 2024 &mdash; Present
+  url: "https://github.com/bradtaco/sre-from-scratch"  # Update with actual URL when available
+  description: A practical guide for teams and individuals to adopt SRE principles and build SRE structures without executive buy-in or dedicated funding.
+
+- project: Gap-Tap
+  role: Founder & CEO
+  duration: 2023 &mdash; Present
+  url: "https://gap-tap.com"  # Update with actual URL when available
+  description: Founded a company around a proprietary product, currently generating $1M in annual revenue. Responsible for product development, business strategy, and market expansion.
+
+- project: GroCrate
+  role: Founder & Product Developer
+  duration: 2024 &mdash; Present
+  url: "https://github.com/bradtaco/grocrate"  # Update with actual URL when available
+  description: Developed an eco-friendly packaging solution infused with microbes and seeds to promote decomposition. Currently working on patenting and bringing the product to market.
+
+- project: SRE Consulting
+  role: Consultant
+  duration: 2023 &mdash; Present
+  description: Partnering with companies of all sizes to bootstrap SRE functions, develop operational reliability strategies, and implement incident management processes.
+
 - project: kmdr.ai
   role: Founder & Lead Developer
   duration: 2023 &mdash; Present
   url: "https://github.com/bradtaco/kmdr-ai"
-  description: AI-powered incident commander for Slack, built to automate and improve incident response workflows. Designed to be model-agnostic with deployments on Fly.io.
-
-# GroCrate
-- project: GroCrate
-  role: Founder & Product Developer
-  duration: 2024 &mdash; Present
-  url: "https://github.com/bradtaco/grocrate"
-  description: Sustainable packaging solution embedding seeds to promote eco-friendly waste decomposition with visible consumer results.
-
-# Flipper Zero Hacking
-- project: Flipper Zero Hacking
-  role: Security Researcher & Developer
-  duration: 2023 &mdash; Present
-  url: "https://github.com/bradtaco/flipperzero-hacks"
-  description: Custom firmware and wireless module enhancements for Flipper Zero, enabling extended functionalities.
-
-# LAN Party GPU Setup
-- project: LAN Party GPU Setup
-  role: Hardware & Performance Engineer
-  duration: 2024
-  url: "https://github.com/bradtaco/lan-party-gpu-setup"
-  description: Configured an external GPU setup using a Razer Core with a mini PC to enable high-performance gaming at LAN events.
+  description: A large language model (LLM) chat agent designed to assist in initiating and managing live incidents and postmortems. Currently in early alpha, with a focus on real-time operational intelligence.
