@@ -1,10 +1,26 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Excellence in Site Reliability Engineering
+  organization: Upstart Inc.
+  year: 2022
+  summary: Recognized for outstanding contributions in improving system reliability, reducing incident response time, and leading the implementation of SLOs, SLIs, and SLAs.
+
+- award: Innovation in DevOps Automation
+  organization: Box Inc.
+  year: 2020
+  summary: Awarded for designing and implementing a fully automated incident response system that integrated Rootly, Jira, PagerDuty, Slack, and Zoom, improving incident resolution times.
+
+- award: Cloud Infrastructure Optimization Award
+  organization: Upstart Inc.
+  year: 2023
+  summary: Led a cloud infrastructure optimization project that resulted in a 15% cost reduction while maintaining performance, earning company-wide recognition.
+
+- award: Mentor of the Year
+  organization: Box Inc.
+  year: 2021
+  summary: Recognized for establishing and leading an internal mentorship program, ensuring 100% adoption and career growth for junior engineers.
+
+- award: Open-Source Contributor Recognition
+  organization: Kubernetes Community
+  year: 2019
+  summary: Acknowledged for contributions to open-source Kubernetes projects, particularly in deployment automation and monitoring solutions.

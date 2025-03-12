@@ -1,5 +1,22 @@
-# links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+# Links
+
+- url: "https://github.com/bradtaco"
+  description: GitHub Profile
+
+- url: "https://www.linkedin.com/in/yourlinkedin"
+  description: LinkedIn Profile
+
+- url: "https://bradtaco.github.io"
+  description: Personal Resume Site
+
+- url: "https://github.com/bradtaco/kmdr-ai"
+  description: kmdr.ai - AI-Powered Incident Commander
+
+- url: "https://github.com/bradtaco/grocrate"
+  description: GroCrate - Sustainable Packaging Project
+
+- url: "https://github.com/bradtaco/flipperzero-hacks"
+  description: Flipper Zero Custom Firmware & Mods
+
+- url: "https://www.meetup.com/devops-portland/"
+  description: DevOps Portland Community

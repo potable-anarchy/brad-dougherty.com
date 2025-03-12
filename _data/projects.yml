@@ -1,16 +1,30 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# Uncomment the URLs if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# kmdr.ai
+- project: kmdr.ai
+  role: Founder & Lead Developer
+  duration: 2023 &mdash; Present
+  url: "https://github.com/bradtaco/kmdr-ai"
+  description: AI-powered incident commander for Slack, built to automate and improve incident response workflows. Designed to be model-agnostic with deployments on Fly.io.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# GroCrate
+- project: GroCrate
+  role: Founder & Product Developer
+  duration: 2024 &mdash; Present
+  url: "https://github.com/bradtaco/grocrate"
+  description: Sustainable packaging solution embedding seeds to promote eco-friendly waste decomposition with visible consumer results.
+
+# Flipper Zero Hacking
+- project: Flipper Zero Hacking
+  role: Security Researcher & Developer
+  duration: 2023 &mdash; Present
+  url: "https://github.com/bradtaco/flipperzero-hacks"
+  description: Custom firmware and wireless module enhancements for Flipper Zero, enabling extended functionalities.
+
+# LAN Party GPU Setup
+- project: LAN Party GPU Setup
+  role: Hardware & Performance Engineer
+  duration: 2024
+  url: "https://github.com/bradtaco/lan-party-gpu-setup"
+  description: Configured an external GPU setup using a Razer Core with a mini PC to enable high-performance gaming at LAN events.
