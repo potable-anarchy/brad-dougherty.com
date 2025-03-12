@@ -3,20 +3,23 @@
 - url: "https://github.com/bradtaco"
   description: GitHub Profile
 
-- url: "https://www.linkedin.com/in/yourlinkedin"
+- url: "https://www.linkedin.com/in/brad-dougherty/"
   description: LinkedIn Profile
 
-- url: "https://bradtaco.github.io"
-  description: Personal Resume Site
+- url: "https://github.com/bradtaco/SRE-From-Scratch"
+  description: SRE From Scratch - Book Project
 
 - url: "https://github.com/bradtaco/kmdr-ai"
-  description: kmdr.ai - AI-Powered Incident Commander
+  description: kmdr.ai - AI-Powered Incident Commander (Solo Project)
 
 - url: "https://github.com/bradtaco/grocrate"
-  description: GroCrate - Sustainable Packaging Project
+  description: GroCrate - Sustainable Packaging Innovation
 
-- url: "https://github.com/bradtaco/flipperzero-hacks"
-  description: Flipper Zero Custom Firmware & Mods
+- url: "https://gap-tap.com"
+  description: Gap-Tap - $1M Revenue Product
+
+- url: "https://github.com/bradtaco/No-Survivors"
+  description: No Survivors - 2024 GitHub Game Jam Project
 
 - url: "https://www.meetup.com/devops-portland/"
-  description: DevOps Portland Community
+  description: DevOps Portland - Community & Events

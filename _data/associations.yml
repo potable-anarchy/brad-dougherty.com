@@ -13,12 +13,6 @@
   url: https://www.linuxfoundation.org/
   summary: Supporting open-source initiatives and contributing to discussions on Linux-based infrastructure and cloud-native technologies.
 
-- organization: Kubernetes Community
-  role: Contributor
-  year: 2019 &mdash; Present
-  url: https://kubernetes.io/community/
-  summary: Contributed to open-source Kubernetes projects, focusing on deployment automation and monitoring solutions.
-
 - organization: Site Reliability Engineering Community
   role: Speaker & Mentor
   year: 2021 &mdash; Present
