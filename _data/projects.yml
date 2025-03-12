@@ -3,13 +3,13 @@
 
 - project: SRE From Scratch (Book)
   role: Author
-  duration: 2024 &mdash; Present
+  duration: 2022 &mdash; Present
   url: "https://github.com/bradtaco/sre-from-scratch"  # Update with actual URL when available
   description: A practical guide for teams and individuals to adopt SRE principles and build SRE structures without executive buy-in or dedicated funding.
 
 - project: Gap-Tap
   role: Founder & CEO
-  duration: 2023 &mdash; Present
+  duration: 2024 &mdash; Present
   url: "https://gap-tap.com"  # Update with actual URL when available
   description: Founded a company around a proprietary product, currently generating $1M in annual revenue. Responsible for product development, business strategy, and market expansion.
 
