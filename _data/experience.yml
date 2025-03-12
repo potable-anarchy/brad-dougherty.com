@@ -1,4 +1,29 @@
 # Jobs
+# Founder & Consultant - Circle Solutions (SRE Consulting)
+- company: Various
+  position: SRE Consultant
+  duration: 2023 &mdash; Present
+  summary: >
+    Providing SRE consulting services to companies of all sizes, helping them bootstrap reliability engineering functions, develop operational reliability strategies, and implement incident management processes.
+    <ul class="resume-item-list">
+      <li>Designed and implemented SRE strategies for startups and enterprises.</li>
+      <li>Developed SLIs, SLOs, and SLAs to improve service reliability.</li>
+      <li>Led incident management transformations, automating workflows and reducing resolution times.</li>
+      <li>Mentored teams on DevOps and SRE best practices.</li>
+    </ul>
+
+# Founder & CEO - Gap-Tap (Circle Solutions)
+- company: Gap-Tap (Circle Solutions LLC)
+  position: Founder & CEO
+  duration: 2024 &mdash; Present
+  summary: >
+    Founded and built Gap-Tap, a product generating $1M in annual revenue. Responsible for product development, business strategy, and scaling operations.
+    <ul class="resume-item-list">
+      <li>Developed and launched a high-demand consumer product with a strong market fit.</li>
+      <li>Built and scaled an e-commerce business from the ground up.</li>
+      <li>Optimized supply chain and fulfillment processes for cost efficiency.</li>
+      <li>Led branding, marketing, and customer acquisition strategies.</li>
+    </ul
 
 # Manager of Site Reliability Engineering - Upstart Inc.
 - company: Upstart Inc.
