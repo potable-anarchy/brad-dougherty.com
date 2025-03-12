@@ -1,19 +1,106 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Manager of Site Reliability Engineering - Upstart Inc.
+- company: Upstart Inc.
+  position: Manager of Site Reliability Engineering
+  duration: 2021 &mdash; 2023
+  summary: >
+    Built and managed a high-performing SRE team focused on system reliability and automation.
+    Led multiple programs to maintain 99.99% availability across production services.
+    <ul class="resume-item-list">
+      <li>Hired and led a team of 9 engineers.</li>
+      <li>Defined and implemented SLOs, SLAs, and SLIs to ensure performance standards.</li>
+      <li>Developed Upstart’s primary site health dashboard for real-time monitoring.</li>
+      <li>Automated incident response using Rootly, Jira, PagerDuty, Slack, Zoom, and DataDog.</li>
+      <li>Led Availability & Latency programs to enhance customer experience.</li>
+      <li>Created a Slack chatbot to automate incident handling, postmortems, and follow-ups.</li>
+    </ul>
 
+# SRE Team Lead / Manager - Box Inc.
+- company: Box Inc.
+  position: SRE Team Lead / Manager
+  duration: 2019 &mdash; 2021
+  summary: >
+    Led an SRE team supporting Box’s monolithic web application and desktop/mobile apps.
+    Focused on automation and efficiency improvements across the stack.
+    <ul class="resume-item-list">
+      <li>Reduced support ticket volume by 90% through self-service automation.</li>
+      <li>Reduced mean-time-to-identify (MTTI) by 40% with a new monitoring dashboard.</li>
+      <li>Established an SRE mentorship program with 100% adoption.</li>
+      <li>Transitioned team to Agile SCRUM, increasing project completion rates by 3x.</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# NOC Systems Engineer - Box Inc.
+- company: Box Inc.
+  position: NOC Systems Engineer
+  duration: 2017 &mdash; 2019
+  summary: >
+    Provided operational support and monitoring across Box's global infrastructure.
+    <ul class="resume-item-list">
+      <li>Built company-wide KPIs to measure customer experience, used by executive leadership.</li>
+      <li>Developed automated reporting tools for problem management.</li>
+      <li>Led incident resolution efforts with a focus on minimizing customer impact.</li>
+      <li>Promoted to SRE Team Lead.</li>
+    </ul>
+
+# Lead Systems Administrator - SQLStream Inc.
+- company: SQLStream Inc.
+  position: Lead Systems Administrator
+  duration: 2013 &mdash; 2019
+  summary: >
+    Managed full-stack infrastructure and IT operations.
+    Led major infrastructure transitions to improve efficiency and scalability.
+    <ul class="resume-item-list">
+      <li>Supervised IT and web development contractors.</li>
+      <li>Managed vendor contracts and service agreements.</li>
+      <li>Developed a secure VPN system for customer access to test environments.</li>
+      <li>Transitioned company infrastructure from bare-metal to virtualization and containers.</li>
+    </ul>
+
+# Front-End Systems Engineer - eBay Inc.
+- company: eBay Inc.
+  position: Front-End Systems Engineer
+  duration: 2013 &mdash; 2017
+  summary: >
+    Ensured reliability and performance of eBay's customer support infrastructure.
+    <ul class="resume-item-list">
+      <li>Eliminated alert noise by automating remediation for non-value alerts.</li>
+      <li>Developed self-healing automation for critical system failures.</li>
+      <li>Acted as SME for backend support of external customer support systems.</li>
+    </ul>
+
+# Application Support Engineer - Netflix
+- company: Netflix
+  position: Application Support Engineer
+  duration: 2011 &mdash; 2013
+  summary: >
+    Provided operational and infrastructure support for Netflix’s DVD shipping hubs.
+    <ul class="resume-item-list">
+      <li>Developed a license-free virtualization pilot using VirtualBox and DRBD.</li>
+      <li>Automated common service requests for improved self-service capabilities.</li>
+    </ul>
+
+# Network Systems Administrator - Willamette University
+- company: Willamette University
+  position: Network Systems Administrator
+  duration: 2009 &mdash; 2011
+  summary: >
+    Managed campus-wide network and systems infrastructure.
+    <ul class="resume-item-list">
+      <li>Maintained datacenters hosting ESXi environments.</li>
+      <li>Implemented Windows Active Directory rollout with Group Policy.</li>
+      <li>Developed MediaWiki server for faculty and student collaboration.</li>
+      <li>Managed automated tape backup systems.</li>
+    </ul>
+
+# Systems Administrator - Western Oregon University
+- company: Western Oregon University
+  position: Systems Administrator
+  duration: 2007 &mdash; 2009
+  summary: >
+    Managed university datacenter and enterprise IT infrastructure.
+    <ul class="resume-item-list">
+      <li>Maintained Solaris, Windows, and Linux servers.</li>
+      <li>Managed NetApp storage systems and automated backups.</li>
+      <li>Built and maintained virtual desktop infrastructure (VDI) for campus computing.</li>
+    </ul>

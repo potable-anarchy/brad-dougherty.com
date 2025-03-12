@@ -14,14 +14,14 @@ resume_name:                    "Brad Dougherty"
 resume_title:                   "Senior Production Engineer | Site Reliability Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "brad@example.com"
+resume_contact_email:           "thisbrad@icloud.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(123) 456-7890"
+# resume_contact_telephone:       "(123) 456-7890"
 resume_contact_address:         "Portland, OR"
 
 resume_header_contact_info:     "Portland, OR • (123) 456-7890 • brad@example.com"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Experienced Production Engineer and Site Reliability Engineer with a passion for optimizing infrastructure, improving system reliability, and automating cloud deployments. Adept at leveraging DevOps best practices to enhance operational efficiency.</p>"
 
