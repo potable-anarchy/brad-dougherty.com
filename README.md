@@ -79,11 +79,3 @@ Led a **team of 4 developers, artists, and writers** to create an **open-source 
 - **LinkedIn:** [linkedin.com/in/brad-dougherty](https://www.linkedin.com/in/brad-dougherty/)  
 - **Personal Site:** [brad-dougherty.com](https://brad-dougherty.com)  
 
----
-
-### **📌 Next Steps**
-1. **Replace your `README.md` with this updated version.**  
-   ```sh
-   git add README.md
-   git commit -m "Updated README to match resume details"
-   git push origin main
