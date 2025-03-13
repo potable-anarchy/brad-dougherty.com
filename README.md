@@ -70,12 +70,11 @@ Led a **team of 4 developers, artists, and writers** to create an **open-source 
 - **"Be the Customer" Contest Winner** – *eBay Inc., 2015*  
 
 ## 🌐 **Professional Associations**  
-- **DevOps Portland** – Active member, speaker, and event participant.  
-- **Linux Foundation** – Supporting open-source initiatives.  
-- **SRE Community** – Mentor and speaker on **scaling production infrastructure**.  
+- **Portland DevOps Groundup** – Active member, participating in discussions and events focused on **automation, cloud infrastructure, and site reliability best practices**.  
+- **Linux Foundation** – Supporting open-source initiatives and contributing to discussions on **Linux-based infrastructure and cloud-native technologies**.  
+- **Site Reliability Engineering Community** – Mentor and speaker on **scaling production infrastructure, SLIs/SLOs, and improving incident response**.  
 
 ## 🔗 **Connect With Me**  
 - **GitHub:** [github.com/bradtaco](https://github.com/bradtaco)  
 - **LinkedIn:** [linkedin.com/in/brad-dougherty](https://www.linkedin.com/in/brad-dougherty/)  
 - **Personal Site:** [brad-dougherty.com](https://brad-dougherty.com)  
-
