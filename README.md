@@ -1,66 +1,89 @@
-# Resume template
+# Brad Dougherty  
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+**Portland, OR** • [thisbrad@icloud.com](mailto:thisbrad@icloud.com)  
+**Senior Production Engineer | Site Reliability Engineer | Entrepreneur**  
 
-![img](images/screenshot.png)
+Experienced Site Reliability Engineer (SRE), Production Engineer, and Entrepreneur specializing in **scalability, automation, and system reliability**. Proven track record of **building high-performing teams, optimizing cloud infrastructure, and leading strategic technical initiatives**. Passionate about DevOps, observability, and reliability engineering best practices.  
 
-## Docs
+## 🔧 **Experience**  
 
-### Running locally
+### **SRE Consultant** (2023 — Present)  
+Providing consulting services to **companies of all sizes**, helping them bootstrap SRE functions, improve system reliability, and enhance operational efficiency.  
+- Designed and implemented **SRE strategies** for startups and enterprises.  
+- Developed **SLIs, SLOs, and SLAs** to improve service reliability.  
+- Led **incident management transformations**, automating workflows and reducing resolution times.  
+- Mentored teams on **DevOps and SRE best practices**.  
 
-To test locally, run the following in your terminal:
+### **Founder & CEO – Gap-Tap (Circle Solutions LLC)** (2024 — Present)  
+Founded and scaled **Gap-Tap**, a product generating **$1M in annual revenue**.  
+- Built and scaled an **e-commerce business from the ground up**.  
+- Optimized **supply chain and fulfillment processes** for cost efficiency.  
+- Led **branding, marketing, and customer acquisition** strategies.  
 
-1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+### **Manager of Site Reliability Engineering – Upstart Inc.** (2021 — 2023)  
+Built and managed a **high-performing SRE team**, maintaining **99.99% availability** across production services.  
+- **Hired and led** a team of 9 engineers.  
+- Developed **Upstart’s site health dashboard** for real-time monitoring.  
+- **Automated incident response** with Rootly, Jira, PagerDuty, Slack, and DataDog.  
+- Created a **Slack chatbot** to streamline incident management and postmortems.  
 
-### Running locally with Docker
+### **SRE Team Lead / Manager – Box Inc.** (2019 — 2021)  
+Led an SRE team supporting **Box’s web, mobile, and desktop apps**.  
+- **Reduced support ticket volume by 90%** through self-service automation.  
+- Improved **mean-time-to-identify (MTTI) by 40%** with advanced monitoring.  
+- Established an **SRE mentorship program** with 100% adoption.  
 
-To test locally with docker, run the following in your terminal after installing docker into your system:
+*(Additional experience at eBay, Netflix, SQLStream, and university IT roles available in full resume.)*  
 
-1. `docker image build -t resume-template .`
-2. `docker run --rm --name resume-template -v "$PWD":/home/app --network host resume-template`
+## 🚀 **Projects**  
 
-### Customizing
+### [**SRE From Scratch**](https://github.com/bradtaco/SRE-From-Scratch) (2022 — Present)  
+A practical guide for **teams and individuals** to adopt SRE principles and **build reliability functions without executive buy-in or dedicated funding**.  
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+### [**Gap-Tap**](https://gap-tap.com) (2024 — Present)  
+Founded a **$1M revenue-generating company** based on a proprietary consumer product.  
 
-#### Options/configuration
+### [**GroCrate**](https://github.com/bradtaco/GroCrate) (2024 — Present)  
+Eco-friendly packaging solution **infused with microbes and seeds** to promote decomposition.  
 
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+### **SRE Consulting** (2023 — Present)  
+Helping **companies bootstrap SRE functions, improve incident management, and implement observability best practices**.  
 
-[...write these out...]
+### [**kmdr.ai**](https://github.com/bradtaco/kmdr-ai) (2023 — 2024)  
+Developed a **proof of concept** for an **LLM-powered incident response assistant**. Explored **real-time operational intelligence**, but the project was not continued beyond its prototype phase.  
 
-#### Editing content
+### [**No Survivors**](https://github.com/bradtaco/No-Survivors) (2024 — Present)  
+Led a **team of 4 developers, artists, and writers** to create an **open-source game** for the **2024 GitHub Game Jam**.  
 
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
+## 🛠 **Technical Skills**  
+- **Site Reliability Engineering** (SRE) & Incident Management  
+- **DevOps & Automation** – Terraform, Ansible, CI/CD, GitHub Actions  
+- **Cloud Platforms** – AWS, GCP, Kubernetes, Serverless  
+- **Observability & Monitoring** – Prometheus, Grafana, DataDog, ELK Stack  
+- **Programming** – Python, Bash, Ruby, Go  
+- **Database Management** – PostgreSQL, MySQL, Redis, DynamoDB  
+- **Leadership & Mentorship** – Team building, hiring, coaching  
 
-### Publishing to GitHub Pages for free
+## 🏆 **Recognition & Awards**  
+- **Excellence in Site Reliability Engineering** – *Upstart Inc., 2022*  
+- **Customer Experience Excellence Award** – *Box Inc., 2020*  
+- **"Be the Customer" Contest Winner** – *eBay Inc., 2015*  
 
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
+## 🌐 **Professional Associations**  
+- **DevOps Portland** – Active member, speaker, and event participant.  
+- **Linux Foundation** – Supporting open-source initiatives.  
+- **SRE Community** – Mentor and speaker on **scaling production infrastructure**.  
 
-### Configuring with your own domain name
+## 🔗 **Connect With Me**  
+- **GitHub:** [github.com/bradtaco](https://github.com/bradtaco)  
+- **LinkedIn:** [linkedin.com/in/brad-dougherty](https://www.linkedin.com/in/brad-dougherty/)  
+- **Personal Site:** [brad-dougherty.com](https://brad-dougherty.com)  
 
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
+---
 
-### Themes
-
-Right now resume-template only has one theme. More are coming :soon: though. :heart:
-
-## Roadmap
-
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
-
-## Contributing
-
-If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
-
-1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
-2. Fork the project, make changes, and submit a pull request
-
-## License
-
-The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
-
-Disclaimer: Use of Lisa M. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+### **📌 Next Steps**
+1. **Replace your `README.md` with this updated version.**  
+   ```sh
+   git add README.md
+   git commit -m "Updated README to match resume details"
+   git push origin main
