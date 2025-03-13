@@ -1,11 +1,11 @@
 # Associations 
 # Comment out the URLs if you do not wish to display them
 
-- organization: DevOps Portland
+- organization: Portland DevOps Groundup
   role: Member
   year: 2020 &mdash; Present
-  url: https://www.meetup.com/devops-portland/
-  summary: Active member of the Portland DevOps community, participating in discussions and events focused on automation, cloud infrastructure, and site reliability best practices.
+  url: https://www.meetup.com/portland-devops-groundup/
+  summary: Active member of the Portland DevOps Groundup community, participating in discussions and events focused on automation, cloud infrastructure, and site reliability best practices.
 
 - organization: Linux Foundation
   role: Member
