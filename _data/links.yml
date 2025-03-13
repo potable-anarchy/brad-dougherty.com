@@ -10,7 +10,7 @@
   description: SRE From Scratch - Book Project
 
 - url: "https://github.com/bradtaco/kmdr-ai"
-  description: kmdr.ai - AI-Powered Incident Commander
+  description: kmdr.ai - LLM-Powered Incident Commander (Proof of Concept, 2023-2024)
 
 - url: "https://github.com/bradtaco/grocrate"
   description: GroCrate - Sustainable Packaging Innovation
@@ -19,7 +19,7 @@
   description: Gap-Tap - $1M Revenue Product
 
 - url: "https://github.com/bradtaco/No-Survivors"
-  description: No Survivors - 2024 GitHub Game Jam Project
+  description: No Survivors - GitHub Game Jam 2024 Project
 
-- url: "https://www.meetup.com/devops-portland/"
-  description: DevOps Portland - Community & Events
+- url: "https://www.meetup.com/portland-devops-groundup/"
+  description: Portland DevOps Groundup - Community & Events
