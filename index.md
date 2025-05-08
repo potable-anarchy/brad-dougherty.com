@@ -5,7 +5,7 @@ title: Brad Dougherty's Resume
 # Brad Dougherty
 **Senior Production Engineer | Site Reliability Engineer | Tech Enthusiast**
 
-📍 Portland, OR | ✉️ brad@example.com | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 🏠 [GitHub](https://github.com/braddougherty)
+📍 Portland, OR | ✉️ brad@example.com | 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 🏠 [GitHub](https://github.com/potable-anarchy/)
 
 ---
 
