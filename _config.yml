@@ -11,20 +11,20 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brad Dougherty"
-resume_title:                   "Senior Devops Engineer | Site Reliability Engineer"
+resume_title:                   "Devops Engineer | Site Reliability Engineer"
 
 # Contact Information
 resume_contact_email:           "thisbrad@icloud.com"
 
 # Hiding phone number, keeping location
-resume_contact_address:         "Portland, OR"
+resume_contact_address:         "Redwood City, CA"
 
 # Header Contact Info Display
 resume_header_contact_info:     "Redwood City, CA • thisbrad@icloud.com"
 display_header_contact_info:    "true"
 
 # Professional Summary
-resume_header_intro: "<p>Experienced Production Engineer and Site Reliability Engineer with a passion for optimizing infrastructure, improving system reliability, and automating cloud deployments. Adept at leveraging DevOps best practices to enhance operational efficiency.</p>"
+resume_header_intro: "<p>Experienced Devops Engineer and Site Reliability Engineer with a passion for leadership, optimizing infrastructure, improving system reliability, and automating cloud deployments. Adept at leveraging DevOps best practices to enhance operational efficiency.</p>"
 
 # Looking for Work Status
 resume_looking_for_work:        "yes"
