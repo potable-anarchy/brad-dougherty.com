@@ -36,6 +36,7 @@
       <li>Hired and led a team of 9 engineers.</li>
       <li>Defined and implemented SLOs, SLAs, and SLIs to ensure performance standards.</li>
       <li>Developed Upstart’s primary site health dashboard for real-time monitoring.</li>
+      <li>Created incident response process for all Upstarters to follow.</li>
       <li>Automated incident response using Rootly, Jira, PagerDuty, Slack, Zoom, and DataDog.</li>
       <li>Led Availability & Latency programs to enhance customer experience.</li>
       <li>Created a Slack chatbot to automate incident handling, postmortems, and follow-ups.</li>
@@ -49,6 +50,7 @@
     Led an SRE team supporting Box’s monolithic web application and desktop/mobile apps.
     Focused on automation and efficiency improvements across the stack.
     <ul class="resume-item-list">
+      <li>Defined the incident process for the team to streamline response.</li>
       <li>Reduced support ticket volume by 90% through self-service automation.</li>
       <li>Reduced mean-time-to-identify (MTTI) by 40% with a new monitoring dashboard.</li>
       <li>Established an SRE mentorship program with 100% adoption.</li>
@@ -80,6 +82,7 @@
       <li>Managed vendor contracts and service agreements.</li>
       <li>Developed a secure VPN system for customer access to test environments.</li>
       <li>Transitioned company infrastructure from bare-metal to virtualization and containers.</li>
+      <li>Drove the resolution of all incidents impacting the business.</li>
     </ul>
 
 # Front-End Systems Engineer - eBay Inc.
@@ -91,7 +94,8 @@
     <ul class="resume-item-list">
       <li>Eliminated alert noise by automating remediation for non-value alerts.</li>
       <li>Developed self-healing automation for critical system failures.</li>
-      <li>Acted as SME for backend support of external customer support systems.</li>
+      <li>Acted as stand-in Incident Commander to relieve TDO's as necessary.</li>
+      <li>SME for backend support of external customer support systems.</li>
     </ul>
 
 # Application Support Engineer - Netflix
