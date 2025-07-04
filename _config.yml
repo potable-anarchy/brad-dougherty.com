@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brad Dougherty"
-resume_title:                   "Senior Production Engineer | Site Reliability Engineer"
+resume_title:                   "Senior Devops Engineer | Site Reliability Engineer"
 
 # Contact Information
 resume_contact_email:           "thisbrad@icloud.com"
@@ -20,7 +20,7 @@ resume_contact_email:           "thisbrad@icloud.com"
 resume_contact_address:         "Portland, OR"
 
 # Header Contact Info Display
-resume_header_contact_info:     "Portland, OR • thisbrad@icloud.com"
+resume_header_contact_info:     "Redwood City, CA • thisbrad@icloud.com"
 display_header_contact_info:    "true"
 
 # Professional Summary
